@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+rust/target/
+data/
+results/pu/raw/
+results/dbq/*.u32
+logs/
+.venv/
+.DS_Store
+*.egg-info/
